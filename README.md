@@ -1,6 +1,6 @@
 ### Hi there, I am Zakke Ke 👋
 
-- 🌱 I’m currently learning JavaScript and React, they are interesting!
+- 🌱 I’m currently learning **JavaScript** and **React**, they are interesting!
 
 ![](https://github-readme-stats.vercel.app/api?username=zakke27)
 <!--
